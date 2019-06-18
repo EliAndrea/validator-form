@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Formulario de pago con implementación de validadores, utilizando HTML, CSS y JavaScript.
+Formulario de pago con implementación de validadores, utilizando HTML, CSS y JavaScript. (Tarea día 7 PM)
 
 ## Vista Previa
 
